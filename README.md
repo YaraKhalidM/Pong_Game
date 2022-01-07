@@ -15,7 +15,7 @@ Artificial Intelligence
 - DOSBox
 - x86 emulator
 
-## How to play
+## How To Play
 At first you shall choose to play in a single mode by pressing '**s**' so choosing the computer to be your second player or multiple mode by pressing '**m**'so you can play it with a friend.
 
 Each player (one could be the computer) controls a paddle by dragging it vertically across the screen's right or left sides.
